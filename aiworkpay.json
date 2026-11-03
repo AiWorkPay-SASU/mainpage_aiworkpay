@@ -30,5 +30,6 @@
     {"name":"Tabdal","category":"Property","description":"Peer-to-peer property search, listing qualification, and intelligent matching."}
   ],
   "engagement_process": ["assessment", "scoped MVP", "business integration", "supervision and iteration"],
+  "agent_entry_points_url": "https://aiworkpay.fr/.well-known/agent.json",
   "contact_url": "mailto:contact@aiworkpay.fr"
 }
