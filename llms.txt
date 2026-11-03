@@ -38,7 +38,7 @@ Mapping of a business process, expected automation scope, risks, required human 
 
 ## Human layer
 
-AIWorkPay agents can create a funded micro-task with instructions, a deadline, an expected output, and verification criteria. A Payworker performs the task. The result is returned to the agent, which can validate it and continue its workflow. The Payworker application is separate from the commercial website and is intended to operate at https://app.aiworkpay.fr/.
+AIWorkPay agents can create a funded micro-task with instructions, a deadline, an expected output, and verification criteria. A Payworker performs the task. The result is returned to the agent, which can validate it and continue its workflow. The Payworker application is separate from the commercial website and is intended to operate at https://app.aiworkpay.fr/ (Payworker sign-in: https://app.aiworkpay.fr/login).
 
 ## Engagement process
 

@@ -19,7 +19,7 @@
     {"id":"ai-marketing","name_fr":"Marketing digital piloté par IA","name_en":"AI-driven digital marketing","capabilities":["campaign strategy","ad creative","landing pages","targeting","conversion optimization"]},
     {"id":"ai-integration-security","name_fr":"Intégration, sécurité et maintenance IA","name_en":"AI integration, security and maintenance","capabilities":["software integration","technical audit","data protection","monitoring","ongoing support"]}
   ],
-  "human_in_the_loop": {"name": "Payworker layer", "purpose": "Delegation of verifiable micro-tasks requiring human judgment or real-world action", "application_url": "https://app.aiworkpay.fr/"},
+  "human_in_the_loop": {"name": "Payworker layer", "purpose": "Delegation of verifiable micro-tasks requiring human judgment or real-world action", "application_url": "https://app.aiworkpay.fr/login"},
   "portfolio": [
     {"name":"AIWorkPay","category":"Agent orchestration","description":"Autonomous workflows with verifiable human micro-task delegation."},
     {"name":"Taqnin ID Batch","category":"Compliance and traceability","description":"Intelligent batch records, quality controls, documents, and audit trails."},
