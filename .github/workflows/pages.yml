@@ -1,8 +1,8 @@
 name: Deploy website to GitHub Pages
 
+# Publishing to aiworkpay.fr (CNAME) is MANUAL ONLY: a push or a merge to main publishes nothing.
+# Run it from the Actions tab (workflow_dispatch) when the site must really be updated.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
